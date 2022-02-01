@@ -1,8 +1,8 @@
 [0m[1;31m                          ./+o+-      [0m[1;31m neil[0m[1m@[0m[0m[1;31mneil-VirtualBox[0m
 [0m[1;37m                  yyyyy- [0m[1;31m-yyyyyy+     [0m[1;31m OS:[0m Ubuntu 20.04 focal[0m
 [0m[1;37m               [0m[1;37m://+//////[0m[1;31m-yyyyyyo     [0m[1;31m Kernel:[0m x86_64 Linux 5.13.0-27-generic[0m
-[0m[1;33m           .++ [0m[1;37m.:/++++++/-[0m[1;31m.+sss/`     [0m[1;31m Uptime:[0m 40m[0m
-[0m[1;33m         .:++o:  [0m[1;37m/++++++++/:--:/-     [0m[1;31m Packages:[0m 1615[0m
+[0m[1;33m           .++ [0m[1;37m.:/++++++/-[0m[1;31m.+sss/`     [0m[1;31m Uptime:[0m 2m[0m
+[0m[1;33m         .:++o:  [0m[1;37m/++++++++/:--:/-     [0m[1;31m Packages:[0m 1616[0m
 [0m[1;33m        o:+o+:++.[0m[1;37m`..```.-/oo+++++/    [0m[1;31m Shell:[0m bash 5.0.17[0m
 [0m[1;33m       .:+o:+o/.[0m[1;37m          `+sssoo+/   [0m[1;31m Resolution:[0m 2880x1800[0m
 [0m[1;37m  .++/+:[0m[1;33m+oo+o:`[0m[1;37m             /sssooo.  [0m[1;31m DE:[0m GNOME 3.36.5[0m
@@ -14,5 +14,5 @@
 [0m[1;33m         `:o+++ [0m[1;31m`ohhhhhhhhyo++os:     [0m[1;31m Disk:[0m 11G / 33G (34%)[0m
 [0m[1;33m           .o:[0m[1;31m`.syhhhhhhh/[0m[1;33m.oo++o`     [0m[1;31m CPU:[0m Intel Core i5-8210Y @ 1.608GHz[0m
 [0m[1;31m               /osyyyyyyo[0m[1;33m++ooo+++/    [0m[1;31m GPU:[0m VMware SVGA II Adapter[0m
-[0m[1;31m                   ````` [0m[1;33m+oo+++o\:    [0m[1;31m RAM:[0m 989MiB / 2996MiB[0m
+[0m[1;31m                   ````` [0m[1;33m+oo+++o\:    [0m[1;31m RAM:[0m 770MiB / 2996MiB[0m
 [0m[1;33m                          `oo++.      [0m
