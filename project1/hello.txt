@@ -1,2 +1,5 @@
 Hi, my name is Neil Satsangi and my Github user name is NeilSatsangi.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1d23f6153fd627d06abdad00c3f8d49c6f06937e
