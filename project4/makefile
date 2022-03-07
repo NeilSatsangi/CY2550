@@ -4,7 +4,7 @@ JC = javac
 .java.class:
 	$(JC) $(JFLAGS) $*.java
 
-CLASSES = xkcdpwgen.java
+CLASSES = PasswordGenerator.java
 
 default: classes
 
