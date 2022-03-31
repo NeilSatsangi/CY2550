@@ -1,0 +1,18 @@
+# Last Modified: Wed Mar 30 20:30:00 2022
+#include <tunables/global>
+
+/home/neil/p2 {
+  #include <abstractions/base>
+  #include <abstractions/user-tmp>
+
+  /home/neil/p2 mr,
+  /home/neil/.project2/config w,
+  /var/log/syslog r,
+  /etc/timezone r,
+  /proc/uptime r,
+  /etc/hostid r,
+  /etc/passwd r,
+  /etc/hosts r,
+  /home/neil/template r,
+  network tcp,
+} 
